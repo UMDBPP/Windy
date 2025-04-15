@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MPXV7007DP")(type "KiCad")(uri "${KIPRJMOD}/KiCad/MPXV7007DP.kicad_sym")(options "")(descr ""))
+  (lib (name "Windy_Components")(type "KiCad")(uri "${KIPRJMOD}/Windy_Components.kicad_sym")(options "")(descr ""))
+)
