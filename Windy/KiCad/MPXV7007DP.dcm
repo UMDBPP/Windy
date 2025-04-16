@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPXV7007DP
+D Pressure Sensor, 5V, -7/7kPa, SOP 8, Dual Port
+K
+F https://www.nxp.com/docs/en/data-sheet/MPXV7007.pdf
+$ENDCMP
+#
+#End Doc Library
